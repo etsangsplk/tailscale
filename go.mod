@@ -23,18 +23,18 @@ require (
 	github.com/pborman/getopt v0.0.0-20190409184431-ee0cd42419d3
 	github.com/peterbourgon/ff/v2 v2.0.0
 	github.com/tailscale/depaware v0.0.0-20200914232109-e09ee10c1824
-	github.com/tailscale/winipcfg-go v0.0.0-20200916205758-decb9ee8e170
 	github.com/tailscale/wireguard-go v0.0.0-20200921221757-11a958a67bdd
 	github.com/tcnksm/go-httpstat v0.2.0
 	github.com/toqueteos/webbrowser v1.2.0
 	go4.org/mem v0.0.0-20200706164138-185c595c3ecc
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79
-	golang.org/x/net v0.0.0-20200501053045-e0ff5e5a1de5
+	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
+	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	golang.org/x/sys v0.0.0-20200812155832-6a926be9bd1d
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	golang.org/x/tools v0.0.0-20191216052735-49a3e744a425
+	golang.zx2c4.com/wireguard/windows v0.1.1
 	honnef.co/go/tools v0.0.1-2020.1.4
 	inet.af/netaddr v0.0.0-20200810144936-56928fe48a98
 	rsc.io/goversion v1.2.0
